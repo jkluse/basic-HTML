@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #74c0fc;
+	font-family: sans-serif;
+}
+
+.container {
+	width: 1300px;
+	height: 60vh;
+	text-align: center;
+	padding: 90px;
+	margin: 90px auto;
+	border: 1px solid #555;
+	background-color: #fff;
+	border-radius: 12px;
+	box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
+}
+
+.title {
+	font-size: 75px;
+	font-weight: 300;
+	margin-bottom: 32px;
+}
+
+.footer {
+	text-align: center;
+}
+
+p {
+	display: inline;
+}
